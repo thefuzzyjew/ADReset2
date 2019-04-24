@@ -1,4 +1,4 @@
-# ADReset (WIP)
+# ADReset (WIP) [![Build Status](https://travis-ci.org/thefuzzyjew/ADReset2.svg?branch=master)](https://travis-ci.org/thefuzzyjew/ADReset2)
 
 ## Overview
 
